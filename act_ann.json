@@ -1,0 +1,1 @@
+{"categories" : [{"id": 0, "name":"cow", "supercategory" : "dog"}], "images" : [{"id" : 1, "width" : 100, "height" : 100}], "annotations" : [{"id":100, "image_id" : 1, "category_id" : 0, "bbox" : [10, 10, 40, 40], "iscrowd" : 0, "area" : 1600}]}
